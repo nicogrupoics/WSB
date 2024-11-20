@@ -1,7 +1,3 @@
-﻿Write-Host "Realizado por Nico Elvira" -ForegroundColor Yellow
-Write-Host "--------------------------" -ForegroundColor Yellow
-Write-Host
-
 $ComputerName = $env:COMPUTERNAME
 $Date = (get-date).AddHours(-48)
 $ToEmail = "revisiones@grupoicsolutions.com"  # Dirección de correo del destinatario principal
