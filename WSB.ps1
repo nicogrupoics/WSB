@@ -5,6 +5,7 @@ Write-Host ""
 Write-Host "Realizado por Nico Elvira" -ForegroundColor Yellow
 Write-Host "--------------------------" -ForegroundColor Yellow
 Write-Host ""
+Write-Host ""
 
 
 # Asegurar que la variable COMPANY_NAME esté configurada
